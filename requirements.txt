@@ -3,7 +3,7 @@ pandas
 xlsxwriter
 Pillow
 opencv-python-headless
-numpy
+numpy<2.0.0
 ultralytics
 paddleocr
-paddlepaddle
+paddlepaddle==2.6.2
